@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Andrea Veggiani andrea@veggiani.it 
 
 # THANKS
 
